@@ -1,0 +1,8 @@
+
+<suite name="OrangeHRM" parallel="false">
+  <test name="SanityTest">
+    <classes>
+      <class name="demo.TestNg"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

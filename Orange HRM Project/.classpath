@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Apache Commons IO 2.6/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Apache Commons IO 2.6/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Apache Commons IO 2.6/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Apache Commons IO 2.6/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Apache Commons IO 2.6/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/client-combined-3.141.5.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/client-combined-3.141.5-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Selenium-Java-3.141.5/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Q.A. 1000 hrs (100 Weeks)/Part 1/(1) Selenium 250 hrs/Selenium Utilities/JAR Files - Testing Annotations/testng-6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
